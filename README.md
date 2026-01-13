@@ -1,5 +1,6 @@
 # MyMusic 🎵
 
+
 O **MyMusic** é uma aplicação Java desenvolvida como parte do desafio técnico do programa **Oracle Next Education (ONE)** em parceria com a **Alura**. O projeto consiste em um sistema de gerenciamento de mídia sonora que aplica conceitos fundamentais de Programação Orientada a Objetos (POO) para organizar e classificar conteúdos.
 
 ## 🚀 Funcionalidades
